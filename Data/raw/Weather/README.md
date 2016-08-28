@@ -1,0 +1,1 @@
+Data from http://www.weather.gov.sg/climate-historical-daily/
