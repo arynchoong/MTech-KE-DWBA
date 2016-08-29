@@ -2,58 +2,58 @@
 Github repository for MTech KE DWBA CA project team work
 
 ## Team members:
-Choong Yue Lin
-Ho Kok Loon
-Lee Tin Onn
-Lee Wai Tong Peter
-Lei Jun
-Vincent Leung
+    Choong Yue Lin
+    Ho Kok Loon
+    Lee Tin Onn
+    Lee Wai Tong Peter
+    Lei Jun
+    Vincent Leung
 
 Directory structure:
 
-+-- README.md          <- The top-level README for developers using this project.
-+-- data
-¦   +-- external       <- Data from third party sources.
-¦   +-- interim        <- Intermediate data that has been transformed. ETL
-¦   +-- processed      <- The final, canonical data sets for modeling.
-¦   +-- raw            <- The original, immutable data dump.
-¦   ¦   +-- HDB <- HDB data
-¦   ¦   +-- Humidity <- Humidity data
-¦   ¦   +-- Weather <- Rain, temperature and windspeed data
-¦
-+-- docs               <- documentations
-¦
-+-- models             <- Trained and serialized models, model predictions, or model summaries
-¦
-+-- notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-¦                         the creator's initials, and a short `-` delimited description, e.g.
-¦                         `1.0-jqp-initial-data-exploration`.
-¦
-+-- references         <- Data dictionaries, manuals, and all other explanatory materials.
-¦
-+-- reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-¦   +-- figures        <- Generated graphics and figures to be used in reporting
-¦
-+-- requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-¦                         generated with `pip freeze > requirements.txt`
-¦
-+-- src                <- Source code for use in this project.
-¦   +-- __init__.py    <- Makes src a Python module
-¦   ¦
-¦   +-- data
-¦   ¦   +-- download_scripts <- Scripts for downloading from each raw data
-¦   ¦   ¦                       source
-¦   ¦   +-- download_raw_data.py <- Script to download raw data using
-¦   ¦   ¦                           modules in `download_scripts/`
-¦   ¦   +-- make_dataset.py <- Script to clean raw data
-¦   ¦
-¦   +-- features       <- Scripts to turn raw data into features for modeling
-¦   ¦   +-- build_features.py
-¦   ¦
-¦   +-- models         <- Scripts to train models and then use trained models to make
-¦   ¦   ¦                 predictions
-¦   ¦   +-- predict_model.py
-¦   ¦   +-- train_model.py
-¦   ¦
-¦   +-- visualization  <- Scripts to create exploratory and results oriented visualizations
-¦       +-- visualize.py
+    +-- README.md          <- The top-level README for developers using this project.
+    +-- data
+    Â¦   +-- external       <- Data from third party sources.
+    Â¦   +-- interim        <- Intermediate data that has been transformed. ETL
+    Â¦   +-- processed      <- The final, canonical data sets for modeling.
+    Â¦   +-- raw            <- The original, immutable data dump.
+    Â¦   Â¦   +-- HDB <- HDB data
+    Â¦   Â¦   +-- Humidity <- Humidity data
+    Â¦   Â¦   +-- Weather <- Rain, temperature and windspeed data
+    Â¦
+    +-- docs               <- documentations
+    Â¦
+    +-- models             <- Trained and serialized models, model predictions, or model summaries
+    Â¦
+    +-- notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    Â¦                         the creator's initials, and a short `-` delimited description, e.g.
+    Â¦                         `1.0-jqp-initial-data-exploration`.
+    Â¦
+    +-- references         <- Data dictionaries, manuals, and all other explanatory materials.
+    Â¦
+    +-- reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    Â¦   +-- figures        <- Generated graphics and figures to be used in reporting
+    Â¦
+    +-- requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+    Â¦                         generated with `pip freeze > requirements.txt`
+    Â¦
+    +-- src                <- Source code for use in this project.
+    Â¦   +-- __init__.py    <- Makes src a Python module
+    Â¦   Â¦
+    Â¦   +-- data
+    Â¦   Â¦   +-- download_scripts <- Scripts for downloading from each raw data
+    Â¦   Â¦   Â¦                       source
+    Â¦   Â¦   +-- download_raw_data.py <- Script to download raw data using
+    Â¦   Â¦   Â¦                           modules in `download_scripts/`
+    Â¦   Â¦   +-- make_dataset.py <- Script to clean raw data
+    Â¦   Â¦
+    Â¦   +-- features       <- Scripts to turn raw data into features for modeling
+    Â¦   Â¦   +-- build_features.py
+    Â¦   Â¦
+    Â¦   +-- models         <- Scripts to train models and then use trained models to make
+    Â¦   Â¦   Â¦                 predictions
+    Â¦   Â¦   +-- predict_model.py
+    Â¦   Â¦   +-- train_model.py
+    Â¦   Â¦
+    Â¦   +-- visualization  <- Scripts to create exploratory and results oriented visualizations
+    Â¦       +-- visualize.py
