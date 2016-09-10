@@ -1,0 +1,12 @@
+I! Author: Greg Thompson  NCAR/RAP
+!         please mail corrections to gthompsn (at) ucar (dot) edu
+! Date: 20 Feb 2015
+! This file is continuously maintained at:
+! http://www.rap.ucar.edu/weather/surface/stations.txt
+!
+!——— CROPPED ———!
+SINGAPORE          27-DEC-01
+   PAYA LEBAR       WSAP        48694  01 22N  103 55E   32   X     T          6 SG
+   SINGAPORE/TENGAH WSAT        48687  01 22N  103 43E   12   X                7 SG
+   SINGAPORE/SELETA WSSL        48692  01 25N  103 52E   14   X     T          7 SG
+   SINGAPORE/CHANGI WSSS  SIN   48698  01 22N  103 58E   16   X     T          6 SG
