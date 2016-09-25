@@ -1,8 +1,8 @@
 RegionId,Name,Description
-100,Common,Entire Singapore
-247,NORTH,North Singapore
-314,EAST,East Singapore
-426,NORTH-EAST,North East Singapore
-439,WEST,West Singapore
-604,CENTRAL,Central Singapore
-700,SOUTH,South Singapore
+0,Common,Entire Singapore
+1,NORTH,North Singapore
+2,NORTH-EAST,North East Singapore
+3,EAST,East Singapore
+4,CENTRAL,Central Singapore
+5,WEST,West Singapore
+6,SOUTH,South Singapore
