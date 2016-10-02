@@ -1,0 +1,154 @@
+"monthYear","disease","totalCases"
+2012-01-01,"Dengue Fever",332
+2012-01-01,"Dengue Haemorrhagic Fever",6
+2012-01-01,"Malaria",9
+2012-02-01,"Dengue Fever",257
+2012-02-01,"Dengue Haemorrhagic Fever",1
+2012-02-01,"Malaria",3
+2012-03-01,"Dengue Fever",229
+2012-03-01,"Dengue Haemorrhagic Fever",2
+2012-03-01,"Malaria",12
+2012-04-01,"Dengue Fever",360
+2012-04-01,"Dengue Haemorrhagic Fever",3
+2012-04-01,"Malaria",12
+2012-05-01,"Dengue Fever",337
+2012-05-01,"Dengue Haemorrhagic Fever",1
+2012-05-01,"Malaria",6
+2012-06-01,"Dengue Fever",465
+2012-06-01,"Dengue Haemorrhagic Fever",3
+2012-06-01,"Malaria",18
+2012-07-01,"Dengue Fever",599
+2012-07-01,"Dengue Haemorrhagic Fever",2
+2012-07-01,"Malaria",26
+2012-08-01,"Dengue Fever",436
+2012-08-01,"Dengue Haemorrhagic Fever",0
+2012-08-01,"Malaria",13
+2012-09-01,"Dengue Fever",422
+2012-09-01,"Dengue Haemorrhagic Fever",4
+2012-09-01,"Malaria",14
+2012-10-01,"Dengue Fever",415
+2012-10-01,"Dengue Haemorrhagic Fever",1
+2012-10-01,"Malaria",14
+2012-11-01,"Dengue Fever",365
+2012-11-01,"Dengue Haemorrhagic Fever",3
+2012-11-01,"Malaria",6
+2012-12-01,"Dengue Fever",385
+2012-12-01,"Dengue Haemorrhagic Fever",4
+2012-12-01,"Malaria",10
+2013-01-01,"Dengue Fever",819
+2013-01-01,"Dengue Haemorrhagic Fever",6
+2013-01-01,"Malaria",3
+2013-02-01,"Dengue Fever",1154
+2013-02-01,"Dengue Haemorrhagic Fever",4
+2013-02-01,"Malaria",3
+2013-03-01,"Dengue Fever",1445
+2013-03-01,"Dengue Haemorrhagic Fever",8
+2013-03-01,"Malaria",5
+2013-04-01,"Dengue Fever",1934
+2013-04-01,"Dengue Haemorrhagic Fever",11
+2013-04-01,"Malaria",13
+2013-05-01,"Dengue Fever",2351
+2013-05-01,"Dengue Haemorrhagic Fever",5
+2013-05-01,"Malaria",18
+2013-06-01,"Dengue Fever",4000
+2013-06-01,"Dengue Haemorrhagic Fever",17
+2013-06-01,"Malaria",12
+2013-07-01,"Dengue Fever",1910
+2013-07-01,"Dengue Haemorrhagic Fever",5
+2013-07-01,"Malaria",11
+2013-08-01,"Dengue Fever",1259
+2013-08-01,"Dengue Haemorrhagic Fever",5
+2013-08-01,"Malaria",16
+2013-09-01,"Dengue Fever",1940
+2013-09-01,"Dengue Haemorrhagic Fever",19
+2013-09-01,"Malaria",13
+2013-10-01,"Dengue Fever",1740
+2013-10-01,"Dengue Haemorrhagic Fever",8
+2013-10-01,"Malaria",3
+2013-11-01,"Dengue Fever",1665
+2013-11-01,"Dengue Haemorrhagic Fever",4
+2013-11-01,"Malaria",5
+2013-12-01,"Dengue Fever",1884
+2013-12-01,"Dengue Haemorrhagic Fever",1
+2013-12-01,"Malaria",9
+2014-01-01,"Dengue Fever",1652
+2014-01-01,"Dengue Haemorrhagic Fever",1
+2014-01-01,"Malaria",5
+2014-02-01,"Dengue Fever",1069
+2014-02-01,"Dengue Haemorrhagic Fever",2
+2014-02-01,"Malaria",0
+2014-03-01,"Dengue Fever",1054
+2014-03-01,"Dengue Haemorrhagic Fever",3
+2014-03-01,"Malaria",6
+2014-04-01,"Dengue Fever",1001
+2014-04-01,"Dengue Haemorrhagic Fever",1
+2014-04-01,"Malaria",7
+2014-05-01,"Dengue Fever",1230
+2014-05-01,"Dengue Haemorrhagic Fever",1
+2014-05-01,"Malaria",2
+2014-06-01,"Dengue Fever",2641
+2014-06-01,"Dengue Haemorrhagic Fever",2
+2014-06-01,"Malaria",9
+2014-07-01,"Dengue Fever",3083
+2014-07-01,"Dengue Haemorrhagic Fever",7
+2014-07-01,"Malaria",6
+2014-08-01,"Dengue Fever",2252
+2014-08-01,"Dengue Haemorrhagic Fever",0
+2014-08-01,"Malaria",7
+2014-09-01,"Dengue Fever",1441
+2014-09-01,"Dengue Haemorrhagic Fever",2
+2014-09-01,"Malaria",4
+2014-10-01,"Dengue Fever",1127
+2014-10-01,"Dengue Haemorrhagic Fever",0
+2014-10-01,"Malaria",6
+2014-11-01,"Dengue Fever",823
+2014-11-01,"Dengue Haemorrhagic Fever",1
+2014-11-01,"Malaria",6
+2014-12-01,"Dengue Fever",933
+2014-12-01,"Dengue Haemorrhagic Fever",0
+2014-12-01,"Malaria",4
+2015-01-01,"Dengue Fever",980
+2015-01-01,"Dengue Haemorrhagic Fever",1
+2015-01-01,"Malaria",1
+2015-02-01,"Dengue Fever",656
+2015-02-01,"Dengue Haemorrhagic Fever",1
+2015-02-01,"Malaria",1
+2015-03-01,"Dengue Fever",609
+2015-03-01,"Dengue Haemorrhagic Fever",3
+2015-03-01,"Malaria",2
+2015-04-01,"Dengue Fever",477
+2015-04-01,"Dengue Haemorrhagic Fever",0
+2015-04-01,"Malaria",7
+2015-05-01,"Dengue Fever",730
+2015-05-01,"Dengue Haemorrhagic Fever",4
+2015-05-01,"Malaria",4
+2015-06-01,"Dengue Fever",881
+2015-06-01,"Dengue Haemorrhagic Fever",1
+2015-06-01,"Malaria",5
+2015-07-01,"Dengue Fever",1078
+2015-07-01,"Dengue Haemorrhagic Fever",0
+2015-07-01,"Malaria",7
+2015-08-01,"Dengue Fever",1168
+2015-08-01,"Dengue Haemorrhagic Fever",0
+2015-08-01,"Malaria",6
+2015-09-01,"Dengue Fever",991
+2015-09-01,"Dengue Haemorrhagic Fever",0
+2015-09-01,"Malaria",7
+2015-10-01,"Dengue Fever",940
+2015-10-01,"Dengue Haemorrhagic Fever",0
+2015-10-01,"Malaria",3
+2015-11-01,"Dengue Fever",1262
+2015-11-01,"Dengue Haemorrhagic Fever",1
+2015-11-01,"Malaria",5
+2015-12-01,"Dengue Fever",1516
+2015-12-01,"Dengue Haemorrhagic Fever",1
+2015-12-01,"Malaria",1
+2016-01-01,"Dengue Fever",2947
+2016-01-01,"Dengue Haemorrhagic Fever",4
+2016-01-01,"Malaria",1
+2016-02-01,"Dengue Fever",1928
+2016-02-01,"Dengue Haemorrhagic Fever",5
+2016-02-01,"Malaria",0
+2016-03-01,"Dengue Fever",1448
+2016-03-01,"Dengue Haemorrhagic Fever",4
+2016-03-01,"Malaria",2

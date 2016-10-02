@@ -1,0 +1,48 @@
+# Metadata for Weekly Infectious Bulletin Cases
+---
+Identifier: 'e51da589-b2d7-486b-adfc-4505d47e1206'
+Name: 'weekly-infectious-bulletin-cases'
+Title: 'Weekly Infectious Bulletin Cases'
+Description:
+  - 'Weekly publication of statistics on local infectious disease situation.'
+  - ''
+  - 'Each epidemiological week begins on a Sunday and ends on Saturday.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'dengue'
+  - 'disease'
+  - 'health'
+Publisher:
+  Name: 'Ministry of Health'
+Source Url: 'http://www.moh.gov.sg/content/dam/moh_web/Statistics/Healthcare_Institution_Statistics/More_Statistics.../Weekly%20infectious%20bulletin_cases.xls'
+License: 'https://data.gov.sg/terms'
+Coverage: '2016-01-13 to 2016-01-13'
+Last Updated: '2016-04-26T10:15:58.213154'
+Resources:
+  -
+    Identifier: 'ef7e44f1-9b14-4680-a60a-37d2c9dda390'
+    Name: 'weekly-infectious-bulletin-cases.csv'
+    Title: 'Weekly Infectious Bulletin Cases'
+    Url: 'https://data.gov.sg/dataset/e51da589-b2d7-486b-adfc-4505d47e1206/resource/ef7e44f1-9b14-4680-a60a-37d2c9dda390/download/weekly-infectious-bulletin-cases.csv'
+    Format: 'CSV'
+    Coverage: '2016-01-13 to 2016-01-13'
+    Last Updated: '2016-04-06T01:12:46.076789'
+    Schema:
+      -
+        Name: 'epi_week'
+        Title: 'Epidemiological Week'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Each epidemiological week begins on a Sunday and ends on Saturday.'
+      -
+        Name: 'disease'
+        Title: 'Disease'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'number_of_cases'
+        Title: 'Number Of Cases'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Cases'
