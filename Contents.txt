@@ -1,6 +1,0 @@
-Below are the descriptions of the contents of each folder :
-
-1) data: Contains the raw data and transformed data as well as all the web scraping scripts wrtten to extract the data
-2) notebooks: Contains the visualization report program developed using iPython which can be run automatically via the GitHub website
-3) docs: Contains all the design elements of the data warehouse including the design documents
-
